@@ -15,13 +15,3 @@ Resources:
 * https://learnxinyminutes.com/docs/python3/
 * https://tryolabs.com/blog/2017/03/16/pandas-seaborn-a-guide-to-handle-visualize-data-elegantly/
 * https://github.com/jvns/pandas-cookbook
-
-
-TODO:
-* Class 1:
-  * Introduce Ipython notebooks
-  * Use 311-service-requests.csv from the pandas-cookbook
-    * Add directions to download these data
-  * Visualize complaints over time
-
-
